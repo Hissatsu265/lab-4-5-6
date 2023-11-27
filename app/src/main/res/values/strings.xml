@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Lab4_5</string>
+    <string name="start">Start</string>
+    <string name="returned_by_bg_thread">Returned by background thread: \n\n</string>
+    <string name="done_background_thread_has_been_stopped"> Done \nBackground thread has been stopped</string>
+    <string name="done">Done</string>
+    <string name="working">Working...</string>
+    <string name="global_value_seen">\n global value seen by all thread </string>
+
+    <string name="bg_work_is_over">Background work is over! </string>
+    <string name="execute">Execute</string>
+    <string name="enter_some_data_here">Enter some data here</string>
+
+    <string name="quick_job">Quick Job</string>
+    <string name="slow_job">Slow Job</string>
+    <string name="please_wait">Some SLOW job is being done. Please wait...</string>
+    <string name="you_have_a_new_message">Hey! You have a new message</string>
+
+    <string name="power_conneted">Power connected</string>
+    <string name="power_disconnected">Power disconnected</string>
+
+    <string name="i_am_safe_and_well">Tui OK</string>
+    <string name="mayday">MAY DAY!!!</string>
+    <string name="auto_response">Auto Response</string>
+    <string name="i_am_safe_and_well_worry_not">Tui OK khoi lo</string>
+    <string name="tell_my_mother_i_love_her">Love</string>
+    <string name="are_you_ok">On ko bro</string>
+    <string name="these_people_want_to_know_if_u_are_ok">May nguoi nay muon biet ban ok ko</string>
+
+
+</resources>
+
+
+
